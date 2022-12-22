@@ -4,10 +4,12 @@ Changelog
 0.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Python3 support.
+  [cekk]
 
 
 0.1 (2013-01-30)
 ----------------
 
 - Initial release
+  [keul]
